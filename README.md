@@ -44,9 +44,9 @@
 <p align="center">
   <i>contact me </i><br><br>
 <a href="https://codelab-74be6.web.app/"><img height="30" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png"></a>&nbsp;&nbsp;
-<a href="mailto:warinsaypanya471@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"></a>&nbsp;&nbsp;
+<a href="mailto:warinsaipanya471@protonmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/varin.js/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
+<a href="add-friend-facebook.web.app"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://add-friends-7eead.web.app"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;&nbsp;

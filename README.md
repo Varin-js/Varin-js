@@ -1,10 +1,6 @@
 
 
-<img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50px">
-<br />
-
-<i>Hi, I'm [Varin](https://github.com/Varin-V) </i>
-
+<img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50px">&nbsp;&nbsp;<i>Hi, I'm [Varin](https://github.com/Varin-V) </i>
 
 <i>- 💼 At present, there is no job, just studying.</i><br>
 <i>- 🏆 The best reward for ourselves is winning our own mind.</i><br>

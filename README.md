@@ -8,7 +8,8 @@
 
 <i>- 💼 At present, there is no job, just studying.</i><br>
 <i>- 🥇 The best reward for ourselves is winning our own mind.</i><br>
-<i>- ⏳ Experience is the most expensive cost. to pay with time.</i>
+<i>- ⏳ Experience is the most expensive cost. to pay with time.</i><br>
+<i>- 📷 My IG: varin.js</i>
 
 # Languages tools and framework.
 

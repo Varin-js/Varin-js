@@ -1,14 +1,15 @@
 
 
 <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50px" align="center"><br><br>
-<i>Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student.</i>
+<i>Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student (M.6/2).</i><br>
+<i>PhothiSamphanPhitthayakan School.</i>
 
 
 <i>- 💼 At present, there is no job, just studying.</i><br>
 <i>- 🥇 The best reward for ourselves is winning our own mind.</i><br>
 <i>- ⏳ Experience is the most expensive cost. to pay with time.</i>
 
-# Languages and tools.
+# Languages tools and framework.
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

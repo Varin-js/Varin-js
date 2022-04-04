@@ -2,7 +2,8 @@
 
 <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="50px" align="center"><br><br>
 <i>Hi, I'm [Varin](https://github.com/Varin-V) I'm just a student (M.6/2).</i><br>
-<i>PhothiSamphanPhitthayakan School.</i>
+<i>PhothiSamphanPhitthayakan School.</i><br>
+<i>frontend developer.</i>
 
 
 <i>- 💼 At present, there is no job, just studying.</i><br>
